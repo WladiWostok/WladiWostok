@@ -1,10 +1,12 @@
 <div align="center">
 
-**[🇷🇺 Русский](#русский)** · **[🇬🇧 English](#english)**
+**[🇷🇺 Русский](#ru)** · **[English](#en)**
 
 </div>
 
 ---
+
+<a id="ru"></a>
 
 ### Привет, я Владислав 👋
 
@@ -35,6 +37,7 @@ Operations Manager / Support Operations Lead с 4+ годами опыта в м
 
 ---
 
+<a id="en"></a>
 
 ### Hi, I'm Vladislav 👋
 
@@ -62,5 +65,3 @@ The project is practical proof that I understand the full game development pipel
 - 📄 [Resume (EN)](./Pustynnikov_CV_ENG.pdf)
 - 🕹️ [Download the game](https://drive.google.com/file/d/1EY1fZWAx6IlAYWP_5RHSwhoMbTeMTNCi/view?usp=drive_link) (temporarily on Google Drive, itch.io coming soon)
 - 💼 [LinkedIn](https://linkedin.com/in/vladislav-pustynnikov-4675471a0)
-
-</div>
