@@ -6,8 +6,6 @@
 
 ---
 
-## Русский
-
 ### Привет, я Владислав 👋
 
 Operations Manager / Support Operations Lead с 4+ годами опыта в международной IT-компании (Red Hat, регион EMEA). Сейчас двигаюсь в сторону геймдева — прошёл полный цикл создания игры от идеи до релиза.
@@ -37,7 +35,6 @@ Operations Manager / Support Operations Lead с 4+ годами опыта в м
 
 ---
 
-## English
 
 ### Hi, I'm Vladislav 👋
 
