@@ -1,6 +1,6 @@
 <div align="center">
 
-**[🇷🇺 Русский](#ru)** · **[English](#en)**
+**[Русский](#ru)** · **[English](#en)**
 
 </div>
 
